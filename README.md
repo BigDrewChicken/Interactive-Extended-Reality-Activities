@@ -24,7 +24,7 @@
 <p> Hands-on Activity 1.4 Starting the Unity Essentials Pathway (Editor & 3D Esssentials) - BULAONG</p>
 <p> Hands-on Activity 1.5 Audio Essentials - BULAONG</p>
 <p> Hands-on Activity 1.6 Programming Essentials - BULAONG</p>
-<p> Cheffeur Reheated - BULAONG ||  <a src='https://www.figma.com/design/XpS7keG6smZ9dQF0pz0fwI/Cheffeur-Reheated?node-id=3-13&t=knSZJXymsaiWbE8F-1'> Check my project out!</a> </p> 
+<p> Cheffeur Reheated - BULAONG ||  <a href='https://www.figma.com/design/XpS7keG6smZ9dQF0pz0fwI/Cheffeur-Reheated?node-id=3-13&t=knSZJXymsaiWbE8F-1'> Check my project out!</a> </p> 
 </div>
 
 # 📂 Small Portfolio 
