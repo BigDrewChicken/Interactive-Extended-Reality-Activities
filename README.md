@@ -24,14 +24,15 @@ the Technological Institute of the Philippines.
 # 📋 Repository Contents
 
 <div align="Left">
-<p> This README.md File (Seatwork 1) </p>
+
 <p> Hands-on Activity 1.1 Introduction to Design Tools for HCI - BULAONG </p>
 <p> Hands-on Activity 1.2 Navigating Unity Editor - BULAONG</p>
 <p> Hands-on Activity 1.4 Starting the Unity Essentials Pathway (Editor & 3D Esssentials) - BULAONG</p>
 <p> Hands-on Activity 1.5 Audio Essentials - BULAONG</p>
 <p> Hands-on Activity 1.6 Programming Essentials - BULAONG</p>
 <p> Cheffeur Reheated - BULAONG ||  <a href='https://www.figma.com/design/XpS7keG6smZ9dQF0pz0fwI/Cheffeur-Reheated?node-id=3-13&t=knSZJXymsaiWbE8F-1'> Check my project out!</a> </p> 
- <p> Unity Project Proposal.pptx</p>
+<p> This README.md File (Seatwork 1) </p>
+<p> Unity Project Proposal.pptx</p>
 </div>
 
 # 📂 Small Portfolio 
