@@ -11,8 +11,14 @@
 
 # ❓ About this Repository
 
-<div align="center">
-  <p> This repository contains all of my files and projects related to the subject<i> CPE 411 - Interactive Extended Reality. </i></p>
+<div align="left">
+<p>
+This repository contains all files and projects related to the subject 
+<i>CPE 411 – Interactive Extended Reality</i>, which I took during my 
+2nd Year, 2nd Semester as part of the BS Computer Engineering program at 
+the Technological Institute of the Philippines.
+</p>
+
 </div>
 
 # 📋 Repository Contents
@@ -25,6 +31,7 @@
 <p> Hands-on Activity 1.5 Audio Essentials - BULAONG</p>
 <p> Hands-on Activity 1.6 Programming Essentials - BULAONG</p>
 <p> Cheffeur Reheated - BULAONG ||  <a href='https://www.figma.com/design/XpS7keG6smZ9dQF0pz0fwI/Cheffeur-Reheated?node-id=3-13&t=knSZJXymsaiWbE8F-1'> Check my project out!</a> </p> 
+ <p> Unity Project Proposal.pptx</p>
 </div>
 
 # 📂 Small Portfolio 
@@ -58,10 +65,12 @@
 </a>
 </div>
 
-# 👀 Profile Views
+# 👀 Repo Views
 <div align="center">
-  <img src="https://count.getloli.com/@:RossUsesGit?theme=capoo-2&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RossUsesGit.Interactive-Extended-Reality-Activities" width="150"/>
 </div>
+
+
 
 
 
