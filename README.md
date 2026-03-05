@@ -21,24 +21,17 @@ the Technological Institute of the Philippines.
 
 </div>
 
-# 📋 Repository Contents
+# 🔗 External Links
 
 <div align="Left">
 
-<p> Hands-on Activity 1.1 Introduction to Design Tools for HCI - BULAONG </p>
-<p> Hands-on Activity 1.2 Navigating Unity Editor - BULAONG</p>
-<p> Hands-on Activity 1.4 Starting the Unity Essentials Pathway (Editor & 3D Esssentials) - BULAONG</p>
-<p> Hands-on Activity 1.5 Audio Essentials - BULAONG</p>
-<p> Hands-on Activity 1.6 Programming Essentials - BULAONG</p>
+
 <p> Hands-on Activity 1.7 2D Essentials & Publishing Essentials - BULAONG || <a href='https://play.unity.com/api/v1/games/game/1f524480-600b-49db-8ea8-216f484ce75c/build/latest/frame'> Check my project here! </a></p> 
-<p> Hands-on Activity 1.8 Pathway Completion - BULAONG</p> 
 <p> Cheffeur Reheated - BULAONG ||  <a href='https://www.figma.com/design/XpS7keG6smZ9dQF0pz0fwI/Cheffeur-Reheated?node-id=3-13&t=knSZJXymsaiWbE8F-1'> Check my project here!</a> </p>
-<p> Quiz 2 - Unity Quiz Compilation - BULAONG</p>
-<p> This README.md File (Seatwork 1) </p>
-<p> Unity Project Proposal.pptx</p>
+
 </div>
 
-# 📂 Small Portfolio 
+# 📂 Small Portfolio (Seatwork 1)
 
 ## 💪 My Skills
 
@@ -69,10 +62,13 @@ the Technological Institute of the Philippines.
 </a>
 </div>
 
-# 👀 Repo Views
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RossUsesGit.Interactive-Extended-Reality-Activities" width="150"/>
-</div>
+# 👥 Teammates 
+<a href="https://github.com/serv22"> Serge Esguerra </a> <br>
+<a>Dave Adriane Madriago</a> <br>
+<a>Charles Yexel Palomares</a> <br>
+<a>Jamie Rose Kia Reyes</a> <br>
+
+
 
 
 
