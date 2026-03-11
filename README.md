@@ -64,9 +64,9 @@ the Technological Institute of the Philippines.
 
 # 👥 Teammates 
 <a href="https://github.com/serv22"> Serge Esguerra </a> <br>
-<a>Dave Adriane Madriago</a> <br>
-<a>Charles Yexel Palomares</a> <br>
-<a>Jamie Rose Kia Reyes</a> <br>
+<a href="https://github.com/qdalmadriago-pixel">Dave Adriane Madriago</a> <br>
+<a href="https://github.com/CHARLESYEXELPALOMARES">Charles Yexel Palomares</a> <br>
+<a href="https://github.com/jamierosereyes">Jamie Rose Kia Reyes</a> <br>
 
 
 
